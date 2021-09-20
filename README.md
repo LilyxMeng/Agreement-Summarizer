@@ -1,4 +1,4 @@
-# Agreement-Summarizer
+# Argon
 
 View the Devpost submission <a href="https://devpost.com/software/argon">here</a>.
 
